@@ -14,6 +14,16 @@ This script captures realtime video streams from all the cameras, and then predi
 
 This can help in reducing the amount of delay commuters have to face, even when some segments of the intersection are empty. Secondly, it can help in managing traffic dynamically, even in high density timing, reducing the chance of gridlock, and subsequently human intervention being needed. 
 
+Model Predictions: 
+
+High Traffic 
+
+![Image of High Traffic](https://github.com/Mashex/AI-Traffic-Control-System/blob/master/images/images_235.jpg)
+
+Low Traffic 
+
+![Image of Low Traffic](https://github.com/Mashex/AI-Traffic-Control-System/blob/master/images/images_699.jpg)
+
 ## Getting Started
 
 ```python 
