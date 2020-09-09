@@ -24,6 +24,8 @@ Low Traffic
 
 ![Image of Low Traffic](https://github.com/Mashex/AI-Traffic-Control-System/blob/master/images/images_699.jpg)
 
+Dataset: Download the dataset from ![Traffic Dataset](https://github.com/OlafenwaMoses/Traffic-Net)
+
 ## Getting Started
 
 ```python 
